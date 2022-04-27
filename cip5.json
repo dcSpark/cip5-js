@@ -1,0 +1,273 @@
+{
+  "keys": [
+    {
+      "prefix": "acct_sk",
+      "meaning": "CIP-1852's account private key",
+      "content": "Ed25519 private key"
+    },
+    {
+      "prefix": "acct_vk",
+      "meaning": "CIP-1852's account public key",
+      "content": "Ed25519 public key"
+    },
+    {
+      "prefix": "acct_xsk",
+      "meaning": "CIP-1852's extended account private key",
+      "content": "Ed25519-bip32 extended private key"
+    },
+    {
+      "prefix": "acct_xvk",
+      "meaning": "CIP-1852's extended account public key",
+      "content": "Ed25519 public key with chain code"
+    },
+    {
+      "prefix": "acct_shared_sk",
+      "meaning": "CIP-1854's account private key",
+      "content": "Ed25519 private key"
+    },
+    {
+      "prefix": "acct_shared_vk",
+      "meaning": "CIP-1854's account public key",
+      "content": "Ed25519 public key"
+    },
+    {
+      "prefix": "acct_shared_xsk",
+      "meaning": "CIP-1854's extended account private key",
+      "content": "Ed25519-bip32 extended private key"
+    },
+    {
+      "prefix": "acct_shared_xvk",
+      "meaning": "CIP-1854's extended account public key",
+      "content": "Ed25519 public key with chain code"
+    },
+    {
+      "prefix": "addr_sk",
+      "meaning": "CIP-1852's address signing key",
+      "content": "Ed25519 private key"
+    },
+    {
+      "prefix": "addr_vk",
+      "meaning": "CIP-1852's address verification key",
+      "content": "Ed25519 public key"
+    },
+    {
+      "prefix": "addr_xsk",
+      "meaning": "CIP-1852's address extended signing key",
+      "content": "Ed25519-bip32 extended private key"
+    },
+    {
+      "prefix": "addr_xvk",
+      "meaning": "CIP-1852's address extended verification key",
+      "content": "Ed25519 public key with chain code"
+    },
+    {
+      "prefix": "addr_shared_sk",
+      "meaning": "CIP-1854's address signing key",
+      "content": "Ed25519 private key"
+    },
+    {
+      "prefix": "addr_shared_vk",
+      "meaning": "CIP-1854's address verification key",
+      "content": "Ed25519 public key"
+    },
+    {
+      "prefix": "addr_shared_xsk",
+      "meaning": "CIP-1854's address extended signing key",
+      "content": "Ed25519-bip32 extended private key"
+    },
+    {
+      "prefix": "addr_shared_xvk",
+      "meaning": "CIP-1854's address extended verification key",
+      "content": "Ed25519 public key with chain code"
+    },
+    {
+      "prefix": "kes_sk",
+      "meaning": "KES signing key",
+      "content": "KES signing key"
+    },
+    {
+      "prefix": "kes_vk",
+      "meaning": "KES verification key",
+      "content": "KES verification key"
+    },
+    {
+      "prefix": "policy_sk",
+      "meaning": "CIP-1855's policy private key",
+      "content": "Ed25519 private key"
+    },
+    {
+      "prefix": "policy_vk",
+      "meaning": "CIP-1855's policy public key",
+      "content": "Ed25519 public key"
+    },
+    {
+      "prefix": "pool_sk",
+      "meaning": "Pool operator signing key",
+      "content": "Ed25519 private key"
+    },
+    {
+      "prefix": "pool_vk",
+      "meaning": "Pool operator verification key",
+      "content": "Ed25519 public key"
+    },
+    {
+      "prefix": "root_sk",
+      "meaning": "CIP-1852's root private key",
+      "content": "Ed25519 private key"
+    },
+    {
+      "prefix": "root_vk",
+      "meaning": "CIP-1852's root public key",
+      "content": "Ed25519 public key"
+    },
+    {
+      "prefix": "root_xsk",
+      "meaning": "CIP-1852's extended root private key",
+      "content": "Ed25519-bip32 extended private key"
+    },
+    {
+      "prefix": "root_xvk",
+      "meaning": "CIP-1852's extended root public key",
+      "content": "Ed25519 public key with chain code"
+    },
+    {
+      "prefix": "root_shared_sk",
+      "meaning": "CIP-1854's root private key",
+      "content": "Ed25519 private key"
+    },
+    {
+      "prefix": "root_shared_vk",
+      "meaning": "CIP-1854's root public key",
+      "content": "Ed25519 public key"
+    },
+    {
+      "prefix": "root_shared_xsk",
+      "meaning": "CIP-1854's extended root private key",
+      "content": "Ed25519-bip32 extended private key"
+    },
+    {
+      "prefix": "root_shared_xvk",
+      "meaning": "CIP-1854's extended root public key",
+      "content": "Ed25519 public key with chain code"
+    },
+    {
+      "prefix": "stake_sk",
+      "meaning": "CIP-1852's stake address signing key",
+      "content": "Ed25519 private key"
+    },
+    {
+      "prefix": "stake_vk",
+      "meaning": "CIP-1852's stake address verification key",
+      "content": "Ed25519 public key"
+    },
+    {
+      "prefix": "stake_xsk",
+      "meaning": "CIP-1852's extended stake address signing key",
+      "content": "Ed25519-bip32 extended private key"
+    },
+    {
+      "prefix": "stake_xvk",
+      "meaning": "CIP-1852's extended stake address verification key",
+      "content": "Ed25519 public key with chain code"
+    },
+    {
+      "prefix": "stake_shared_sk",
+      "meaning": "CIP-1854's stake address signing key",
+      "content": "Ed25519 private key"
+    },
+    {
+      "prefix": "stake_shared_vk",
+      "meaning": "CIP-1854's stake address verification key",
+      "content": "Ed25519 public key"
+    },
+    {
+      "prefix": "stake_shared_xsk",
+      "meaning": "CIP-1854's extended stake address signing key",
+      "content": "Ed25519-bip32 extended private key"
+    },
+    {
+      "prefix": "stake_shared_xvk",
+      "meaning": "CIP-1854's extended stake address verification key",
+      "content": "Ed25519 public key with chain code"
+    },
+    {
+      "prefix": "vrf_sk",
+      "meaning": "VRF signing key",
+      "content": "VRF signing key"
+    },
+    {
+      "prefix": "vrf_vk",
+      "meaning": "VRF verification key",
+      "content": "VRF verification key"
+    }
+  ],
+  "hashes": [
+    {
+      "prefix": "asset",
+      "meaning": "Fingerprint of a native asset for human comparison",
+      "content": "See [CIP-0014]"
+    },
+    {
+      "prefix": "pool",
+      "meaning": "Pool operator verification key hash (pool ID)",
+      "content": "blake2b_224 digest of an operator verification key"
+    },
+    {
+      "prefix": "script",
+      "meaning": "Script hash",
+      "content": "blake2b_224 digest of a serialized transaction script"
+    },
+    {
+      "prefix": "addr_vkh",
+      "meaning": "Address verification key hash",
+      "content": "blake2b_224 digest of a payment verification key"
+    },
+    {
+      "prefix": "addr_shared_vkh",
+      "meaning": "Shared address verification key hash",
+      "content": "blake2b_224 digest of a payment verification key"
+    },
+    {
+      "prefix": "policy_vkh",
+      "meaning": "Policy verification key hash",
+      "content": "blake2b_224 digest of a policy verification key"
+    },
+    {
+      "prefix": "stake_vkh",
+      "meaning": "Stake address verification key hash",
+      "content": "blake2b_224 digest of a delegation verification key"
+    },
+    {
+      "prefix": "stake_shared_vkh",
+      "meaning": "Shared stake address verification key hash",
+      "content": "blake2b_224 digest of a delegation verification key"
+    },
+    {
+      "prefix": "vrf_vkh",
+      "meaning": "VRF verification key hash",
+      "content": "blake2b_256 digest of a VRF verification key"
+    }
+  ],
+  "miscellaneous": [
+    {
+      "prefix": "addr",
+      "meaning": "Mainnet address",
+      "content": "Network tag, payment credential and optional stake credential"
+    },
+    {
+      "prefix": "addr_test",
+      "meaning": "Testnet address",
+      "content": "Network tag, payment credential and optional stake credential"
+    },
+    {
+      "prefix": "stake",
+      "meaning": "Mainnet stake address",
+      "content": "Network tag and stake credential"
+    },
+    {
+      "prefix": "stake_test",
+      "meaning": "Testnet stake address",
+      "content": "Network tag and stake credential"
+    }
+  ]
+}
