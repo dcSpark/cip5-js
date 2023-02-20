@@ -30,7 +30,7 @@ function generateContent(): string {
     .map(
       (key) => `\t${key}: {
     ${generateEntries(json[key])}
-  }`
+  } as const`
     )
     .join("\n,");
 }
